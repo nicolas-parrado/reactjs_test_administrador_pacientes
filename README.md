@@ -1,5 +1,19 @@
 URL del proyecto Live: [https://admin-pacientes-nparrado.netlify.app/](https://admin-pacientes-nparrado.netlify.app/) .
 
+
+Se realizó utilizando ReactJS, a modo de prueba aprendiendo de:
+- Stateless Functional Components
+- Local Storage
+- Use State
+- Use Effect
+- UUIDv4
+- PropTypes
+
+
+---
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
